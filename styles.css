@@ -1,0 +1,33 @@
+body {
+    font-family: 'Yeseva One', cursive;
+    background-color: #f774c5;
+}
+
+img {
+    height: 600px;
+}
+
+.kca {
+    border: 5px outset #fc038c;
+    border-radius: 25px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.kca2 {
+    border: 5px inset #fc038c;
+    display: flex;
+    justify-content: center;
+}
+
+.kca3 {
+    border: 5px outset #fc038c;
+    display: flex;
+    justify-content: center;
+}
+.kca4 {
+    border: 5px inset #fc038c;
+    display: flex;
+    justify-content: center;
+}
